@@ -82,28 +82,6 @@ Aplicación que combina **Machine Learning y desarrollo Full-Stack** para estima
 ![ObstetriCare](./assets/obstetricare-preview.png)
 -->
 
-## 📊 Actividad en GitHub
-
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Poch0cl0&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Estadísticas de GitHub"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=Poch0cl0&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Racha de contribuciones"
-  />
-
-</div>
-
-
 ## 🤝 Contacto
 
 Estoy abierto a colaborar en proyectos de software y a explorar oportunidades de **prácticas profesionales** y **desarrollo junior**.
