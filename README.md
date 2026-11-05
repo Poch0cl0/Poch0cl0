@@ -84,13 +84,25 @@ Aplicación que combina **Machine Learning y desarrollo Full-Stack** para estima
 
 ## 📊 Actividad en GitHub
 
+
+## 📊 Actividad en GitHub
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Poch0cl0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Poch0cl0&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Estadísticas de GitHub"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Poch0cl0&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Poch0cl0&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Racha de contribuciones"
+  />
 
 </div>
+
 
 ## 🤝 Contacto
 
