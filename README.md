@@ -69,6 +69,7 @@ Aplicación que combina **Machine Learning y desarrollo Full-Stack** para estima
 [![Frontend](https://img.shields.io/badge/Frontend-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/Poch0cl0/frontend-obstetricare)
 [![Backend](https://img.shields.io/badge/Backend-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/Poch0cl0/backend-obstetricare)
 
+
 </td>
 </tr>
 </table>
@@ -88,6 +89,7 @@ Estoy abierto a colaborar en proyectos de software y a explorar oportunidades de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-pe%C3%B1a-4ab9462a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-Poch0cl0-181717?style=flat-square&logo=github)](https://github.com/Poch0cl0)
+[![Portafolio](https://img.shields.io/badge/Vercel-Deploy-000000?style=flat-square&logo=vercel&logoColor=white))]([https://github.com/Poch0cl0](https://portfolio-eq8j.vercel.app/es))
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0B1220,50:1D4ED8,100:0891B2" alt="Pie decorativo" />
