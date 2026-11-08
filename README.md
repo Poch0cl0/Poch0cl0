@@ -52,7 +52,7 @@ Aplicación web orientada al autocuidado y al seguimiento de registros de bienes
 **Tecnologías:** Next.js · React · TypeScript · Tailwind CSS · OpenAI API
 
 [![Ver aplicación](https://img.shields.io/badge/Ver_aplicaci%C3%B3n-0891B2?style=flat-square&logo=vercel&logoColor=white)](https://amar-gold.vercel.app/)
-[![Buscar repositorio](https://img.shields.io/badge/Repositorios-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/Poch0cl0?tab=repositories)
+[![Buscar repositorio](https://img.shields.io/badge/Repositorios-334155?style=flat-square&logo=github&logoColor=white)](https://github.com/Poch0cl0/Amara)
 
 </td>
 <td width="50%" valign="top">
